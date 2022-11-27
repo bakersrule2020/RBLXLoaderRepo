@@ -1,5 +1,3 @@
 {
-  "modname1": "Examplemod",
-  "modver1": "0.21",
-  "moddesc1": "example lol"
+  "message": "success" "mods": [{"modname": "Examplemod" ,"modver": "0.21","moddesc": "example lol"}]
 }
